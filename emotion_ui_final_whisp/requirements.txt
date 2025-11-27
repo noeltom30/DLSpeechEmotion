@@ -1,0 +1,9 @@
+streamlit
+librosa
+soundfile
+numpy
+matplotlib
+plotly
+transformers
+torch
+audio-recorder-streamlit
